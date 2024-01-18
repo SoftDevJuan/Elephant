@@ -8,7 +8,7 @@ public class CONEXION {
 private String Servidor="localhost";
 private String Base="elephant";
 private String Usuario="root";
-private String Password="";
+private String Password="server";
 
 private Connection conex;
 public Connection getConex(){
